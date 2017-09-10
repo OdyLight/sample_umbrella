@@ -1,0 +1,146 @@
+/* This file is for your main application css. */
+
+
+/* -- REVOLUTION LAYERS STYLES -- */
+
+
+/* 
+.tp-caption.SleekLanding-Title,
+.SleekLanding-Title {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    letter-spacing: 5px
+}
+
+.tp-caption.SleekLanding-ButtonBG,
+.SleekLanding-ButtonBG {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: px;
+    line-height: px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: ;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.10);
+    border-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15)
+}
+
+.tp-caption.SleekLanding-SmallTitle,
+.SleekLanding-SmallTitle {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 13px;
+    line-height: 50px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Lato;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    letter-spacing: 2px
+}
+
+.tp-caption.SleekLanding-BottomText,
+.SleekLanding-BottomText {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px
+}
+
+.tp-caption.SleekLanding-Social,
+.SleekLanding-Social {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Arial;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px
+}
+
+.tp-caption.SleekLanding-Social:hover,
+.SleekLanding-Social:hover {
+    color: rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    cursor: pointer
+}
+
+#rev_slider_50_1_wrapper .tp-loader.spinner2 {
+    background-color: #555555 !important;
+}
+
+.tp-fat {
+    font-weight: 900 !important
+}
+
+.hermes.tp-bullets {}
+
+.hermes .tp-bullet {
+    overflow: hidden;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: inset 0 0 0 2px rgb(255, 255, 255);
+    -webkit-transition: background 0.3s ease;
+    transition: background 0.3s ease;
+    position: absolute
+}
+
+.hermes .tp-bullet:hover {
+    background-color: rgba(0, 0, 0, 0.21)
+}
+
+.hermes .tp-bullet:after {
+    content: ' ';
+    position: absolute;
+    bottom: 0;
+    height: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 1px rgb(255, 255, 255);
+    -webkit-transition: height 0.3s ease;
+    transition: height 0.3s ease
+}
+
+.hermes .tp-bullet.selected:after {
+    height: 100%
+} */
